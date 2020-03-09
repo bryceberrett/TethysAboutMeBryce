@@ -1,0 +1,12 @@
+setup.py
+tethysapp/all_about_me_app/__init__.py
+tethysapp/all_about_me_app/app.py
+tethysapp/all_about_me_app/controllers.py
+tethysapp/all_about_me_app/handoff.py
+tethysapp/all_about_me_app/tests/__init__.py
+tethysapp/all_about_me_app/tests/tests.py
+tethysapp_all_about_me_app.egg-info/PKG-INFO
+tethysapp_all_about_me_app.egg-info/SOURCES.txt
+tethysapp_all_about_me_app.egg-info/dependency_links.txt
+tethysapp_all_about_me_app.egg-info/not-zip-safe
+tethysapp_all_about_me_app.egg-info/top_level.txt
